@@ -8,6 +8,10 @@
 
 # WiFiKill
 
+<p align="center">
+  <img src="wifikill-preview.jpg" alt="WiFiKill 界面预览" width="80%">
+</p>
+
 玩机圈的老伙计们，应该都记得当年那个"一键断人网"的神器 —— WiFiKill 吧？
 
 当年多少人的青春（和恶作剧），就是用它在一个局域网里"大杀四方"。后来 WiFiKill 原作者停更，APK 失效、崩溃、各种不兼容，这应用就慢慢沉了……

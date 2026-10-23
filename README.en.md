@@ -8,6 +8,10 @@
 
 # WiFiKill
 
+<p align="center">
+  <img src="wifikill-preview.jpg" alt="WiFiKill preview" width="80%">
+</p>
+
 Old-timers in the modding scene surely remember the legendary "one-tap network killer" — WiFiKill.
 
 So many people's youth (and pranks) were spent "rampaging" across a LAN with it. Later the original developer stopped updating, the APK broke, crashed, and became incompatible — and the app slowly sank...
