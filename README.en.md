@@ -32,6 +32,10 @@ I spent a lot of time rebuilding it with a modern tech stack, turning it from "i
 - 📶 WiFi network speed test (latency / real-time bandwidth chart)
 - 🌙 Dark mode + Chinese / English switching
 
+## ⚠️ Closed-Source Notice
+
+This project is closed-source software. Reverse engineering, derivative development, and any commercial use are prohibited. It is intended solely for personal research and for testing/learning on networks you own or are authorized to use.
+
 ## ⚠️ Important Notice
 
 This tool is intended only for testing and learning on networks you own or are explicitly authorized to use. Don't mess with other people's networks — you alone are responsible for whatever happens. Have fun, but don't cross the line.
