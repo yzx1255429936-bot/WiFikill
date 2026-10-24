@@ -29,6 +29,7 @@ I spent a lot of time rebuilding it with a modern tech stack, turning it from "i
 - ⭐ Whitelist & device notes
 - 🏷 Device type detection (vendor / mobile)
 - 🛡 Defense mode against ARP attacks
+- 📶 WiFi network speed test (latency / real-time bandwidth chart)
 - 🌙 Dark mode + Chinese / English switching
 
 ## ⚠️ Important Notice
