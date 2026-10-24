@@ -9,7 +9,7 @@
 # WiFiKill
 
 <p align="center">
-  <img src="wifikill-preview.jpg" alt="WiFiKill preview" width="80%">
+  <img src="wifikill-preview-en.webp" alt="WiFiKill preview" width="80%">
 </p>
 
 Old-timers in the modding scene surely remember the legendary "one-tap network killer" — WiFiKill.

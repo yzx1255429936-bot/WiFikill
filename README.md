@@ -9,7 +9,7 @@
 # WiFiKill
 
 <p align="center">
-  <img src="wifikill-preview.jpg" alt="WiFiKill 界面预览" width="80%">
+  <img src="wifikill-preview-zh.webp" alt="WiFiKill 界面预览" width="80%">
 </p>
 
 玩机圈的老伙计们，应该都记得当年那个"一键断人网"的神器 —— WiFiKill 吧？
